@@ -303,8 +303,6 @@ html {
 .img-photo {
   border-style: solid;
   border-radius: 170px;
-  height: 85%;
-  width: 85%;
 }
 
 @media (max-width: 767px) {
