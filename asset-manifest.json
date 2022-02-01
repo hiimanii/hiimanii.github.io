@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.608a7a57.chunk.css",
-    "main.js": "/static/js/main.04199759.chunk.js",
-    "main.js.map": "/static/js/main.04199759.chunk.js.map",
+    "main.js": "/static/js/main.08be4c6d.chunk.js",
+    "main.js.map": "/static/js/main.08be4c6d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ad8d4a4.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ad8d4a4.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/static/css/2.e7f3f9d7.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.e7f3f9d7.chunk.css.map": "/static/css/2.e7f3f9d7.chunk.css.map",
     "static/css/main.608a7a57.chunk.css.map": "/static/css/main.608a7a57.chunk.css.map",
     "static/js/2.9ee43e4a.chunk.js.LICENSE.txt": "/static/js/2.9ee43e4a.chunk.js.LICENSE.txt",
-    "static/media/HimaniPatel_Resume_2.85e99e6f.pdf": "/static/media/HimaniPatel_Resume_2.85e99e6f.pdf",
+    "static/media/HimaniPatel_Resume_2.4a2dd894.pdf": "/static/media/HimaniPatel_Resume_2.4a2dd894.pdf",
     "static/media/Housing.fa2a6270.png": "/static/media/Housing.fa2a6270.png",
     "static/media/TSP.7780a970.png": "/static/media/TSP.7780a970.png",
     "static/media/Tracker.ec73ae1e.png": "/static/media/Tracker.ec73ae1e.png",
@@ -28,6 +28,6 @@
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.9ee43e4a.chunk.js",
     "static/css/main.608a7a57.chunk.css",
-    "static/js/main.04199759.chunk.js"
+    "static/js/main.08be4c6d.chunk.js"
   ]
 }
